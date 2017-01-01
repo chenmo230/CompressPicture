@@ -1,0 +1,2 @@
+# CompressPicture
+一个用来压缩项目中png图片的Swift脚本
